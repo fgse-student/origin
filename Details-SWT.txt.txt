@@ -1,1 +1,2 @@
 1: Softwaretechnik hilft, qualitativ hochwertige Software zu erstellen
+2: Aufgabe 2: Versionsmanagement hilft zu verhindern, dass mehrere Personen ihre Änderungen überschreiben
